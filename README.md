@@ -1,6 +1,6 @@
 # Pneumonia X-Ray Detection using CNN
 
-This project utilizes Convolutional Neural Networks (CNNs) implemented with Keras to detect pneumonia in chest X-ray images. It leverages the dataset available on Kaggle, provided by [Paul Mooney](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia).
+This project utilizes Convolutional Neural Networks (CNNs) implemented with Keras to detect pneumonia in chest X-ray images. It leverages the dataset available on Kaggle, provided by Paul Mooney.
 
 ## Overview
 
@@ -8,7 +8,7 @@ Pneumonia is a serious respiratory infection affecting the lungs, and its diagno
 
 ## Dataset
 
-The dataset consists of chest X-ray images collected from various sources, including normal cases and cases with bacterial or viral pneumonia. You can access the dataset on [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+The dataset consists of chest X-ray images collected from various sources, including normal cases and cases with bacterial or viral pneumonia. You can access the dataset on [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia).
 
 ## Dependencies
 Install this libraries
